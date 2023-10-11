@@ -1,3 +1,7 @@
 [submodule "libobjc2"]
 	path = libobjc2
 	url = git@github.com:gnustep/libobjc2.git
+
+[submodule "robin-map"]
+	path = libobjc2/third_party/robin-map
+	url = git@github.com:Tessil/robin-map.git
